@@ -8,6 +8,7 @@ public class JavaStdinAndStdout {
         int c = scan.nextInt();
         // Complete this line
         // Complete this line
+        scan.close();
 
         System.out.println(a);
         System.out.println(b);
